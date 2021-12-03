@@ -3,7 +3,7 @@
 This project has been built to search GitHub users easily and see how they are active or what projects are more popular and more and more.
 So try it there and enjoy => (https://search-github-users-project-react-js.netlify.app/login)
 
-## Features ##
+## About the project and features ##
 
 ## Starter Project
 
