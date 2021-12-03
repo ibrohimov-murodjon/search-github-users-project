@@ -1,3 +1,10 @@
+## Project
+
+This project has been built to search GitHub users easily and see how they are active or what projects are more popular and more and more.
+So try it there and enjoy => (https://search-github-users-project-react-js.netlify.app/login)
+
+## Features ##
+
 ## Starter Project
 
 - css provided (global styles, styled components)
@@ -43,6 +50,11 @@ version used - "react-router-dom": "^5.2.0",
 
 - <Switch> renders the first child <Route> that matches
 - A <Route path="*"> always matches
+ 
+## React Skeleton
+ Skeleton works in the search process 
+ -documentation => (https://mui.com/components/skeleton/#main-content)
+ 
 
 ## Gihthub API
 
