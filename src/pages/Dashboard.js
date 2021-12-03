@@ -1,6 +1,5 @@
 import React from "react";
 import { Info, Repos, User, Search, Navbar } from "../components";
-import loadingImage from "../images/preloader.gif";
 import SkeletonLoader from "../components/SkeletonLoader";
 import { GithubContext } from "../context/context";
 const Dashboard = () => {
@@ -11,7 +10,6 @@ const Dashboard = () => {
         <Navbar />
         <Search />
         <SkeletonLoader />
-        {/* <img src={loadingImage} className="loading-img" alt="loading" /> */}
       </main>
     );
   }

@@ -1,5 +1,4 @@
 import React from "react";
-import SkeletonLoader from "./components/SkeletonLoader";
 import { Dashboard, Login, PrivateRoute, AuthWrapper, Error } from "./pages";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
