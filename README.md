@@ -1,3 +1,6 @@
+## !!!REMINDER!!!
+ If you can't see the application after you've logged in then change your local time to local time in one of the U.S. states, please.🙏🙏🙏
+ Then, you will be able to see the application. 
 ## Project
 
 This project has been built to search GitHub users easily and see how they are active or what projects are more popular and more and more.
