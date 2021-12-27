@@ -59,7 +59,7 @@ version used - "react-router-dom": "^5.2.0",
  -documentation => (https://mui.com/components/skeleton/#main-content)
  
 
-## Gihthub API
+## Github API
 
 - [Root Endpoint](https://api.github.com)
 - [Get User](https://api.github.com/users/ibrohimov-murodjon)
